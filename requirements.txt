@@ -53,3 +53,8 @@ tabulate
 
 # Black
 black[jupyter]
+
+# Perf tools
+pympler
+scalene
+memory-profiler
